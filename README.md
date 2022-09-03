@@ -6,4 +6,9 @@ following links may be helpful understanding the code:
 
 https://www.fpcomplete.com/blog/captures-closures-async/
 
-https://users.rust-lang.org/t/closure-may-outlive-the-current-function/79282
+
+run this project by command: cargo run
+
+then visit localhost:3000, this will redirect you to https://www.snoyman.com
+
+visit localhost:3000/status will show how many requests has been proxied.
